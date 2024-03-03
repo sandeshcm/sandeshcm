@@ -1,7 +1,7 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)
 <h1 align="center">Hi 👋, I'm Sandesh</h1>
 <h3 align="center">A passionate DeVops Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*DluPjzT_eTUFdzHCI7JBZA.gif"
+(img align="right" alt="Coding" width="400" src="https://https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshcm&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshcm" /> </p>
 
@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshcm&show_icons=true&locale=en" alt="sandeshcm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshcm&" alt="sandeshcm" /></p>
-
